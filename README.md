@@ -1,2 +1,2 @@
 # Elblogdelastortugas
-Un blog para proyectos de IA's and Machine Learning 
+Un blog para proyectos de Frontend 
